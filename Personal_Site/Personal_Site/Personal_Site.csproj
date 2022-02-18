@@ -73,8 +73,8 @@
     <Content Include="Web.config" />
     <Content Include="_archive\assets\css\style.css" />
     <Content Include="_archive\assets\img\apple-touch-icon.png" />
-    <Content Include="_archive\assets\img\favicon.png" />
-    <Content Include="_archive\assets\img\hero-bg.jpg" />
+    <Content Include="_archive\assets\img\favicon.ico" />
+    <Content Include="_archive\assets\img\forestbackground.jpg" />
     <Content Include="_archive\assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="_archive\assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="_archive\assets\img\portfolio\portfolio-3.jpg" />
@@ -87,12 +87,12 @@
     <Content Include="_archive\assets\img\portfolio\portfolio-details-1.jpg" />
     <Content Include="_archive\assets\img\portfolio\portfolio-details-2.jpg" />
     <Content Include="_archive\assets\img\portfolio\portfolio-details-3.jpg" />
-    <Content Include="_archive\assets\img\profile-img.jpg" />
     <Content Include="_archive\assets\img\testimonials\testimonials-1.jpg" />
     <Content Include="_archive\assets\img\testimonials\testimonials-2.jpg" />
     <Content Include="_archive\assets\img\testimonials\testimonials-3.jpg" />
     <Content Include="_archive\assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="_archive\assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="_archive\assets\img\ZakPFP.jpeg" />
     <Content Include="_archive\assets\js\main.js" />
     <Content Include="_archive\assets\vendor\aos\aos.css" />
     <Content Include="_archive\assets\vendor\aos\aos.js" />
