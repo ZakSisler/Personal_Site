@@ -61,24 +61,24 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  width: 300px;
-  transition: all ease-in-out 0.5s;
-  z-index: 9997;
-  transition: all 0.5s;
-  padding: 0 15px;
-  background: #040b14;
-  overflow-y: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    transition: all ease-in-out 0.5s;
+    z-index: 9997;
+    transition: all 0.5s;
+    padding: 0 15px;
+    background: #040b14;
+    overflow-y: auto;
 }
-#header .profile img {
-  margin: 15px auto;
-  display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
-}
+    #header .profile img {
+        margin: 15px auto;
+        display: block;
+        width: 120px;
+        border: 8px solid #149ddd;
+    }
 #header .profile h1 {
   font-size: 24px;
   margin: 0;
@@ -113,7 +113,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main {
-  margin-left: 300px;
+    margin-left: 300px;
+    background: #aaa7a2;
 }
 
 @media (max-width: 1199px) {
@@ -310,7 +311,7 @@ section {
   margin-right: 10px;
 }
 .about .content ul i {
-  font-size: 16px;
+  font-size: 18px;
   margin-right: 5px;
   color: #149ddd;
   line-height: 0;
