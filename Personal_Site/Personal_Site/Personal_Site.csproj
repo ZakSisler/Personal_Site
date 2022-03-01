@@ -71,24 +71,15 @@
     <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\favicon.ico" />
     <Content Include="assets\img\forestbackground.jpg" />
+    <Content Include="assets\img\portfolio\code.jpg" />
     <Content Include="assets\img\portfolio\dungeonCoder.jpg" />
+    <Content Include="assets\img\portfolio\lavaBlack.jpg" />
+    <Content Include="assets\img\portfolio\orangebackground.jpg" />
+    <Content Include="assets\img\portfolio\orangeSky.jpg" />
     <Content Include="assets\img\portfolio\ORNG-trainingpic.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-2.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-3.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-4.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-5.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-6.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-7.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-8.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-9.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-details-1.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-details-2.jpg" />
-    <Content Include="assets\img\portfolio\portfolio-details-3.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-1.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-2.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-3.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-4.jpg" />
-    <Content Include="assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="assets\img\portfolio\purpleYellowSwirl.jpg" />
+    <Content Include="assets\img\portfolio\riversNtrees.jpg" />
+    <Content Include="assets\img\portfolio\texturedBrownBlue.jpg" />
     <Content Include="assets\img\ZakPFP.jpeg" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\vendor\aos\aos.css" />
@@ -284,6 +275,9 @@
     <Content Include="_archive\assets\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="_archive\assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="_archive\assets\vendor\typed.js\typed.min.js.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\img\testimonials\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
