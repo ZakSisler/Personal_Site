@@ -80,6 +80,12 @@
     <Content Include="assets\img\portfolio\purpleYellowSwirl.jpg" />
     <Content Include="assets\img\portfolio\riversNtrees.jpg" />
     <Content Include="assets\img\portfolio\texturedBrownBlue.jpg" />
+    <Content Include="assets\img\testimonials\connorPFP.jpg" />
+    <Content Include="assets\img\testimonials\jazPFP.jpg" />
+    <Content Include="assets\img\testimonials\kaylaPFP.jpg" />
+    <Content Include="assets\img\testimonials\romeoPFP.jpg" />
+    <Content Include="assets\img\testimonials\seanPFP.jpg" />
+    <Content Include="assets\img\testimonials\wallyPFP.jpg" />
     <Content Include="assets\img\ZakPFP.jpeg" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\vendor\aos\aos.css" />
@@ -276,9 +282,7 @@
     <Content Include="_archive\assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="_archive\assets\vendor\typed.js\typed.min.js.map" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="assets\img\testimonials\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
