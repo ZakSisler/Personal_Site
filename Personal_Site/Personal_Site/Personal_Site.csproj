@@ -135,7 +135,9 @@
     <Content Include="assets\vendor\waypoints\noframework.waypoints.js" />
     <Content Include="CSS\css.css" />
     <Content Include="index.html" />
+    <Content Include="inner-page.html" />
     <Content Include="JS\JavaScript.js" />
+    <Content Include="portfolio-details.html" />
     <Content Include="Web.config" />
     <Content Include="_archive\assets\css\style.css" />
     <Content Include="_archive\assets\img\apple-touch-icon.png" />
